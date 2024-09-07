@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bocilgacor.github.io/gaskan/sitemap.xml
